@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+snake_game/__pycache__/
+snake_game/scores.json

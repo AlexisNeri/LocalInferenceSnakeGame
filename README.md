@@ -11,6 +11,12 @@ stack:
 3. [Qwen 3.8 27B](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF) (Unsloth
    UD-IQ4_XS quantization)
 
+![Game screen](media/game.png)
+
+![Main menu](media/menu.png)
+
+![High score](media/high_score.png)
+
 ## Features
 
 - Fixed-timestep simulation: snake speed is in *cells per second*, independent
